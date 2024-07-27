@@ -1,0 +1,82 @@
+Duplicate ID: 9273636110
+
+1153336111, Tully Darrick, 19
+1153636110, Denver Mully, 21
+3453636110, Mike Dan, 21
+9273636110, John Doe, 20
+
+M1 must be longer than 3 characters!
+
+No such student with the id 5555444433!
+
+Student: 9273636110, John Doe, 20
+Grades:
+Calculus I - Midterm I (Weight:15.0) 65.0
+
+Student: 1153336111, Tully Darrick, 19
+Grades:
+Calculus I - Midterm I (Weight:15.0) 88.0
+Calculus I - Midterm II (Weight:20.0) 97.0
+
+Student: 1153436110, Leslie Town, 21
+Grades:
+History I - Midterm (Weight:30.0) 22.0
+History I - Final (Weight:35.0) 34.0
+English I - Homework 1 (Weight:10.0) 22.0
+English I - Homework 2 (Weight:10.0) 76.0
+
+1153336111, Tully Darrick, 19 - Average: 93.14286
+0153336110, Daisy York, 22 - Average: 70.0
+9273636110, John Doe, 20 - Average: 65.0
+1153436110, Leslie Town, 21 - Average: 33.294117
+1153636110, Denver Mully, 21 - Average: 33.0
+3453636110, Mike Dan, 21 - Average: 24.0
+
+Student: 4554365110, Parey Will, 20
+Grades:
+Calculus I - Midterm I (Weight:33.0) 11.0
+Calculus II - Midterm I (Weight:15.0) 89.0
+Calculus II - Final (Weight:30.0) 34.0
+Calculus I - Final (Weight:35.0) 33.0
+
+0052236511, Abby Wisenlord, 20
+0253236711, Abraham Aiden, 19
+0445536711, Abraham Caroll, 23
+0252236310, Abraham Fennick, 22
+0252236711, Abraham Ford, 23
+9952236000, Arkhey Shell, 24
+0153336110, Daisy York, 22
+1153636110, Denver Mully, 21
+2252236011, Eliah Holly, 21
+0252232000, Gorain Holly, 20
+8253336111, Hue Green, 22
+9273636110, John Doe, 20
+1153436110, Leslie Town, 21
+9853336111, Love Red, 20
+3453636110, Mike Dan, 21
+4554365110, Parey Will, 20
+1252236000, Porter Holly, 19
+4253336511, Tom Riddle, 18
+1153336111, Tully Darrick, 19
+5253436511, Zoey Helena, 20
+
+4253336511, Tom Riddle, 18 - Average: 100.0
+1153336111, Tully Darrick, 19 - Average: 93.14286
+0252232000, Gorain Holly, 20 - Average: 75.0
+1252236000, Porter Holly, 19 - Average: 75.0
+2252236011, Eliah Holly, 21 - Average: 75.0
+0153336110, Daisy York, 22 - Average: 70.0
+9273636110, John Doe, 20 - Average: 65.0
+9952236000, Arkhey Shell, 24 - Average: 55.4
+4554365110, Parey Will, 20 - Average: 34.274338
+1153436110, Leslie Town, 21 - Average: 33.294117
+1153636110, Denver Mully, 21 - Average: 33.0
+3453636110, Mike Dan, 21 - Average: 24.0
+
+No such student with the id 4554365999!
+
+Duplicate ID: 9273636110
+
+No such student with the id 1159999110!
+
+No such student with the id 5555444433!

@@ -1,0 +1,63 @@
+Student:John Doe, 20, 9273636110
+Student:John Doe, 20, 9273636110
+Student:Mike Dan, 21, 3453636110
+Student:Denver Mully, 21, 1153636110
+Student:Tully Darrick, 19, 1153336111
+PrintStudents
+Grade:9273636110, Calculus I - Midterm I, 15, 79
+Grade:3453636110, M1, 25, 64
+Grade:3453636110, Calculus I - Midterm II, 15, 24
+Grade:9273636110, Calculus I - Midterm I, 15, 65
+Grade:1153636110, Calculus I - Midterm II, 15, 33
+Grade:1153336111, Calculus I - Midterm I, 15, 88
+Student:Daisy York, 22, 0153336110
+Grade:0153336110, History I - Midterm, 30, 88
+Grade:0153336110, History I - Final, 35, 58
+Grade:0153336110, English I - Homework 1, 10, 58
+Student:Leslie Town, 21, 1153436110
+Grade:1153436110, History I - Midterm, 30, 22
+Grade:1153436110, History I - Final, 35, 34
+Grade:1153436110, English I - Homework 1, 10, 22
+Grade:1153436110, English I - Homework 2, 10, 76
+Grade:1153336111, Calculus I - Midterm II, 20, 97
+Grade:5555444433, Calculus I - Midterm II, 20, 100
+GradesOf:9273636110
+GradesOf:1153336111
+GradesOf:1153436110
+PrintByGradeAverages
+Student:Love Red, 20, 9853336111
+Student:Hue Green, 22, 8253336111
+Student:Tom Riddle, 18, 4253336511
+Grade:4253336511, Calculus I - Midterm I, 20, 0
+Grade:4253336511, Calculus I - Midterm I, 20, 100
+Grade:4253336511, Calculus I - Midterm II, 20, 100
+Student:Zoey Helena, 20, 5253436511
+Student:Parey Will, 20, 4554365110
+Grade:4554365110, Calculus I - Midterm I, 15, 87
+Grade:4554365110, Calculus II - Midterm I, 15, 89
+Grade:4554365110, Calculus II - Final, 30, 34
+Grade:4554365110, Calculus I - Final, 35, 33
+Grade:4554365110, Calculus I - Midterm I, 33, 11
+GradesOf:4554365110
+Student:Abby Wisenlord, 20, 0052236511
+Student:Abraham Ford, 23, 0252236711
+Student:Abraham Aiden, 19, 0253236711
+Student:Abraham Caroll, 23, 0445536711
+Student:Abraham Fennick, 22, 0252236310
+Student:Arkhey Shell, 24, 9952236000
+Student:Porter Holly, 19, 1252236000
+Student:Gorain Holly, 20, 0252232000
+Student:Eliah Holly, 21, 2252236011
+Grade:2252236011, Calculus I - Homework 1, 30, 75
+Grade:1252236000, Calculus I - Homework 1, 30, 75
+Grade:0252232000, Calculus I - Homework 1, 30, 75
+Grade:0252232000, Calculus I - Homework 2, 25, 75
+Grade:0252232000, Calculus I - Homework 3, 15, 75
+Grade:9952236000, Calculus I - Final, 35, 33
+Grade:9952236000, Calculus I - Midterm, 40, 75
+PrintByNameOrder
+PrintByGradeAverages
+GradesOf:4554365999
+Student:Parky Nell, 19, 9273636110
+Grade:1159999110, Calculus I - Midterm II, 15, 33
+Grade:5555444433, CS1, 20, 100
